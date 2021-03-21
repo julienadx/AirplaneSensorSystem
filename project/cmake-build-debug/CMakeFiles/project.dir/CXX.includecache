@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/julienaudoux/Desktop/studies/info01/AP4A/project/Sensor.h
+data.h
+/Users/julienaudoux/Desktop/studies/info01/AP4A/project/data.h
+
+/Users/julienaudoux/Desktop/studies/info01/AP4A/project/Server.cpp
+Server.h
+/Users/julienaudoux/Desktop/studies/info01/AP4A/project/Server.h
+Sensor.h
+/Users/julienaudoux/Desktop/studies/info01/AP4A/project/Sensor.h
+iostream
+-
+
+/Users/julienaudoux/Desktop/studies/info01/AP4A/project/Server.h
+iostream
+-
+fstream
+-
+data.h
+/Users/julienaudoux/Desktop/studies/info01/AP4A/project/data.h
+Sensor.h
+/Users/julienaudoux/Desktop/studies/info01/AP4A/project/Sensor.h
+
+/Users/julienaudoux/Desktop/studies/info01/AP4A/project/data.h
+
